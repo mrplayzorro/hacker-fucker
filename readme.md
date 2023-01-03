@@ -1,1 +1,1 @@
-
+Yes I've finally stopped "hacking" and got into real hacking. This is a program (not made all by myself) that uses rohook along with other stuff that fucks hackers in the asshole, if the script is executed the userid and username of the hacker gets logged. Inspired by astra hub (yes they log your username if you do stupid stuff with it) and the retard that Em4an3el is.
